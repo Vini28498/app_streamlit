@@ -1,0 +1,7 @@
+gspread
+datetime
+pandas
+psycopg2
+sqlalchemy
+streamlit
+matplotlib
